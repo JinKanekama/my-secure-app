@@ -1,2 +1,2 @@
-# my-secure-app
+# secure-app
 sercure application traning
